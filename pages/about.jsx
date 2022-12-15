@@ -44,7 +44,7 @@ const AboutMe = () => {
       <p className={styles.line}>
         about:&nbsp;
         <a href="#" rel="noopener">
-          I'm a Web Developer for almost four professional year. I love to develop web applications with the use of newest texhnologies for fast phase development.
+          I'm a Web Developer for almost four professional year. I love to develop web applications with the use of newest technologies for fast phase development.
         </a>
       </p>
       <br></br>
