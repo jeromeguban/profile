@@ -42,7 +42,7 @@
     {
     "id": 6,
     "name": "Seller Platform",
-    "image": "https://i.imgur.com/u5qOLj9.png",
+    "image": "https://i.imgur.com/qJJUQE6.png",
     "description": "Seller Platform for HMR Shop N' Bid",
     "tags":  ["laravel", "vue" ,"MySQL", "redis", "tailwind css", "rest-api", "axios", "cron"],
     "demo": ""
