@@ -10,12 +10,12 @@ const CustomHead = ({ title }) => {
       />
       <meta
         name="keywords"
-        content="Jerome Edward Guban, nitin, ranganath, web developer portfolio, nitin web developer, nitin developer, mern stack, Jerome Edward Guban portfolio, vscode-portfolio"
+        content="Jerome Edward Guban vscode-portfolio"
       />
       <meta property="og:title" content="Jerome Edward Guban's Portfolio" />
       <meta
         property="og:description"
-        content="A full-stack developer building websites that you'd like to use."
+        content="A Web Developer building websites that you'd like to use."
       />
       <meta property="og:image" content="https://i.imgur.com/yiGCQCr.jpg" />
       <meta property="og:url" content="https://vscode-portfolio.vercel.app" />
