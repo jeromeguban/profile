@@ -38,5 +38,13 @@
     "description": "Warehouse Management System ",
     "tags":  ["laravel", "vue" ,"sql", "redis", "tailwind", "rest-api", "axios", "cron"],
     "demo": ""
+  },
+    {
+    "id": 6,
+    "name": "Seller Platform",
+    "image": "https://i.imgur.com/u5qOLj9.png",
+    "description": "Seller Platform for HMR Shop N' Bid",
+    "tags":  ["laravel", "vue" ,"sql", "redis", "tailwind", "rest-api", "axios", "cron"],
+    "demo": ""
   }
 ]
