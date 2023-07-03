@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "name": "Simulcast Live Auction Controller",
+    "name": "Simulcast Auction Controller",
     "image": "https://imgur.com/MyycGZv.png",
     "description": "HMR Shop N' Bid Live Auction Controller using WebRTC and Ant Media Server",
     "tags":  ["laravel", "vue" ,"mysql", "redis", "tailwind-css", "rest-api", "axios", "cron", "web-rtc"],
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "name": "Retail Live Selling Controller",
+    "name": "Live Selling Controller",
     "image": "https://imgur.com/X3UUKqd.png",
     "description": "HMR Shop N' Bid Live Selling Controller using WebRTC and Ant Media Server",
     "tags":  ["laravel", "vue" ,"mysql", "redis", "tailwind-css", "rest-api", "axios", "cron", "web-rtc"],
