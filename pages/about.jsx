@@ -19,7 +19,7 @@ const AboutMe = () => {
       <p className={styles.line}>
         age:&nbsp;
         <a href="#" rel="noopener">
-          24
+          25
         </a>
       </p>
 
