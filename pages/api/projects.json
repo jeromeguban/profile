@@ -46,7 +46,7 @@
     "description": "Seller Platform for HMR Shop N' Bid",
     "tags":  ["laravel", "vue" ,"mysql", "redis", "tailwind-css", "rest-api", "axios", "cron"],
     "demo": ""
-  }
+  },
   {
     "id": 7,
     "name": "HMR Shop N' Bid Live Auction Controller",
@@ -54,7 +54,7 @@
     "description": "HMR Shop N' Bid Live Auction Controller using WebRTC and Ant Media Server",
     "tags":  ["laravel", "vue" ,"mysql", "redis", "tailwind-css", "rest-api", "axios", "cron", "web-rtc"],
     "demo": ""
-  }
+  },
   {
     "id": 8,
     "name": "HMR Shop N' Bid Live Selling Controller",
