@@ -23,12 +23,12 @@ const AboutMe = () => {
         </a>
       </p>
 
-{/*       <p className={styles.line}>
+      <p className={styles.line}>
         contact:&nbsp;
         <a href="#" rel="noopener">
-          09615057115
+          09******115
         </a>
-      </p> */}
+      </p>
 
       <p className={styles.line}>
         address:&nbsp;
