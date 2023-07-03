@@ -4,7 +4,7 @@
     "name": "HMR Shop N' Bid",
     "image": "https://imgur.com/8JQZkqA.png",
     "description": "E-commerce and Online Bidding website for HMR Philippines Inc.",
-    "tags": ["laravel", "vue" ,"sql", "redis", "tailwind", "rest-api", "node", "elastic-search", "axios", "cron"],
+    "tags": ["laravel", "vue" ,"MySQL", "redis", "tailwind css", "rest-api", "node", "elastic-search", "axios", "cron"],
     "demo": "https://hmr.ph/"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Hammer 3.0",
     "image": "https://imgur.com/65koFLf.png",
     "description": "A Warehouse Management System that handles business’ entire inventory and operations",
-    "tags": ["laravel", "vue" ,"sql", "redis", "tailwind", "rest-api", "axios", "cron"],
+    "tags": ["laravel", "vue" ,"MySQL", "redis", "tailwind css", "rest-api", "axios", "cron"],
     "demo": ""
   },
   {
@@ -20,7 +20,7 @@
     "name": "CMS",
     "image": "https://imgur.com/5twsGJp.png",
     "description": "Content Management System For Shop N' Bid",
-    "tags": ["laravel", "vue" ,"sql", "redis", "tailwind", "rest-api", "axios", "cron"],
+    "tags": ["laravel", "vue" ,"MySQL", "redis", "tailwind css", "rest-api", "axios", "cron"],
     "demo": ""
   },
   {
@@ -28,7 +28,7 @@
     "name": "HMR Forms",
     "image": "https://imgur.com/IQZZw9t.png",
     "description": "A System like Google Forms",
-    "tags":  ["laravel", "vue" ,"sql", "redis", "tailwind", "rest-api", "axios"],
+    "tags":  ["laravel", "vue" ,"MySQL", "redis", "tailwind css", "rest-api", "axios"],
     "demo": ""
   },
   {
@@ -36,7 +36,7 @@
     "name": "Overlanders 2.0",
     "image": "https://imgur.com/7Bd2uup.png",
     "description": "Warehouse Management System ",
-    "tags":  ["laravel", "vue" ,"sql", "redis", "tailwind", "rest-api", "axios", "cron"],
+    "tags":  ["laravel", "vue" ,"MySQL", "redis", "tailwind css", "rest-api", "axios", "cron"],
     "demo": ""
   },
     {
@@ -44,7 +44,7 @@
     "name": "Seller Platform",
     "image": "https://i.imgur.com/u5qOLj9.png",
     "description": "Seller Platform for HMR Shop N' Bid",
-    "tags":  ["laravel", "vue" ,"sql", "redis", "tailwind", "rest-api", "axios", "cron"],
+    "tags":  ["laravel", "vue" ,"MySQL", "redis", "tailwind css", "rest-api", "axios", "cron"],
     "demo": ""
   }
 ]
